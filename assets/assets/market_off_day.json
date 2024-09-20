@@ -1,0 +1,218 @@
+[
+  {
+    "name": "Azimpur Super Market",
+    "closed": "Friday"
+  },
+  {
+    "name": "Banglabazar",
+    "closed": "Friday"
+  },
+  {
+    "name": "Chokbazar",
+    "closed": "Friday"
+  },
+  {
+    "name": "Gulistan Hawkers Market (south)",
+    "closed": "Friday"
+  },
+  {
+    "name": "Islampur Clothe Market",
+    "closed": "Friday"
+  },
+  {
+    "name": "Tanti Bazar",
+    "closed": "Friday"
+  },
+  {
+    "name": "Kamalapur Stadium Market",
+    "closed": "Sunday"
+  },
+  {
+    "name": "Malibagh Supermarket",
+    "closed": "Sunday"
+  },
+  {
+    "name": "Rampura Supermarket",
+    "closed": "Sunday"
+  },
+  {
+    "name": "Aziz Cooperative Market",
+    "closed": "Thursday"
+  },
+  {
+    "name": "Baitul Mokarram",
+    "closed": "Thursday"
+  },
+  {
+    "name": "Concord Twin Tower",
+    "closed": "Thursday"
+  },
+  {
+    "name": "Eastern Plus",
+    "closed": "Thursday"
+  },
+  {
+    "name": "Gulistan Complex",
+    "closed": "Thursday"
+  },
+  {
+    "name": "Karnaphuli Garden City",
+    "closed": "Thursday"
+  },
+  {
+    "name": "Muochak Market",
+    "closed": "Thursday"
+  },
+  {
+    "name": "Polwel Supermarket",
+    "closed": "Thursday"
+  },
+  {
+    "name": "Ramna Bhavan",
+    "closed": "Thursday"
+  },
+  {
+    "name": "Stadium Market -1 & 2",
+    "closed": "Thursday"
+  },
+  {
+    "name": "Zonaki Super Market",
+    "closed": "Thursday"
+  },
+  {
+    "name": "ARA Shopping Center",
+    "closed": "Tuesday"
+  },
+  {
+    "name": "Bakusha Market",
+    "closed": "Tuesday"
+  },
+  {
+    "name": "Framgate Market",
+    "closed": "Tuesday"
+  },
+  {
+    "name": "Bashundhara City",
+    "closed": "Tuesday"
+  },
+  {
+    "name": "Badruddoza Market",
+    "closed": "Tuesday"
+  },
+  {
+    "name": "Chandrima Market",
+    "closed": "Tuesday"
+  },
+  {
+    "name": "Chandi Chawk Market",
+    "closed": "Tuesday"
+  },
+  {
+    "name": "Dhanmondi Hawkers",
+    "closed": "Tuesday"
+  },
+  {
+    "name": "Elephant Road",
+    "closed": "Tuesday"
+  },
+  {
+    "name": "Eastern Plaza",
+    "closed": "Tuesday"
+  },
+  {
+    "name": "Green Super Market",
+    "closed": "Tuesday"
+  },
+  {
+    "name": "Gausia Market",
+    "closed": "Tuesday"
+  },
+  {
+    "name": "Kawran Bazar",
+    "closed": "Tuesday"
+  },
+  {
+    "name": "Metro Shopping Mall",
+    "closed": "Tuesday"
+  },
+  {
+    "name": "New Market",
+    "closed": "Tuesday"
+  },
+  {
+    "name": "New Super Market",
+    "closed": "Tuesday"
+  },
+  {
+    "name": "Rafa Plaza",
+    "closed": "Tuesday"
+  },
+  {
+    "name": "Rifle Square",
+    "closed": "Tuesday"
+  },
+  {
+    "name": "Saudia Supermarket",
+    "closed": "Tuesday"
+  },
+  {
+    "name": "Arong",
+    "closed": "Thursday"
+  },
+  {
+    "name": "Mirpur Stadium Market",
+    "closed": "Thursday"
+  },
+  {
+    "name": "Mukti Juddho Super Market",
+    "closed": "Thursday"
+  },
+  {
+    "name": "Shah Ali Super Market",
+    "closed": "Thursday"
+  },
+  {
+    "name": "Krishi Market",
+    "closed": "Thursday"
+  },
+  {
+    "name": "BCS Computer City",
+    "closed": "Sunday"
+  },
+  {
+    "name": "Mirpur Banaroshi Polli",
+    "closed": "Sunday"
+  },
+  {
+    "name": "DCC Market in Gulshan-1",
+    "closed": "Sunday"
+  },
+  {
+    "name": "DCC Market in Gulshan-2",
+    "closed": "Sunday"
+  },
+  {
+    "name": "Banani Super Market",
+    "closed": "Sunday"
+  },
+  {
+    "name": "Tamanna Complex",
+    "closed": "Sunday"
+  },
+  {
+    "name": "Jamuna Future Park",
+    "closed": "Wednesday"
+  },
+  {
+    "name": "Entire Uttara Model Town",
+    "closed": "Wednesday"
+  },
+  {
+    "name": "Rajdhani Super Market",
+    "closed": "Wednesday"
+  },
+  {
+    "name": "North Tower",
+    "closed": "Wednesday"
+  }
+]
